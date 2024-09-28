@@ -1,0 +1,16 @@
+# dune exec ./bin/main.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/mad_hatter/.cache/dune/db
+# Workspace root: /Users/mad_hatter/OCaml/test
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/mad_hatter/.opam/default/bin/ocamlc.opt -config > /var/folders/sr/wyqzncnn2vd6vrgm99v9cz7w0000gp/T/dune_c72e9d_output
